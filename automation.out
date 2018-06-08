@@ -1,0 +1,42 @@
+2018-05-14  21:11:42 INFO  TC003_VerifyLoginWithDifferentRecords:23 ---------------------TC003_VerifyLoginWithDifferentRecords Test Started-----------------
+2018-05-14  21:12:02 INFO  HomePage:61 -Clicked in signinButton and object is :-Proxy element for: DefaultElementLocator 'By.xpath: //a[@id='nav-link-accountList']'
+2018-05-14  21:12:03 INFO  HomePage:63 -Entered email address : demo.email01@gmail.com and object is [[ChromeDriver: chrome on XP (be8647827a737b6946fec71282cfdb54)] -> xpath: //input[@id='ap_email']]
+2018-05-14  21:12:03 INFO  HomePage:67 -Entered passWord : pass123 and object is [[ChromeDriver: chrome on XP (be8647827a737b6946fec71282cfdb54)] -> xpath: //input[@id='ap_password']]
+2018-05-14  21:12:04 INFO  HomePage:69 -Clicked in signinSubmitButton and object is :- [[ChromeDriver: chrome on XP (be8647827a737b6946fec71282cfdb54)] -> xpath: //input[@id='signInSubmit']]
+2018-05-14  21:12:04 INFO  HomePage:73 -Assertion doneactual :Forgot your password? expected :Forgot your password?
+2018-05-14  21:12:04 INFO  TC003_VerifyLoginWithDifferentRecords:26 ---------------------TC003_VerifyLoginWithDifferentRecords Test Finished-----------------
+2018-05-14  21:12:09 INFO  BaseClass:45 -Creating object of chrome
+2018-05-14  21:12:09 INFO  BaseClass:59 -Navigating to : http://www.amazon.com
+2018-05-14  21:12:14 INFO  TC003_VerifyLoginWithDifferentRecords:23 ---------------------TC003_VerifyLoginWithDifferentRecords Test Started-----------------
+2018-05-14  21:12:35 INFO  HomePage:61 -Clicked in signinButton and object is :-Proxy element for: DefaultElementLocator 'By.xpath: //a[@id='nav-link-accountList']'
+2018-05-14  21:12:35 INFO  HomePage:63 -Entered email address : demo.email02@gmail.com and object is [[ChromeDriver: chrome on XP (961ce9f1520698d664153d066c330ac7)] -> xpath: //input[@id='ap_email']]
+2018-05-14  21:12:35 INFO  HomePage:67 -Entered passWord : pass123 and object is [[ChromeDriver: chrome on XP (961ce9f1520698d664153d066c330ac7)] -> xpath: //input[@id='ap_password']]
+2018-05-14  21:12:36 INFO  HomePage:69 -Clicked in signinSubmitButton and object is :- [[ChromeDriver: chrome on XP (961ce9f1520698d664153d066c330ac7)] -> xpath: //input[@id='signInSubmit']]
+2018-05-14  21:12:36 INFO  HomePage:73 -Assertion doneactual :Forgot your password? expected :Forgot your password?
+2018-05-14  21:12:36 INFO  TC003_VerifyLoginWithDifferentRecords:26 ---------------------TC003_VerifyLoginWithDifferentRecords Test Finished-----------------
+2018-05-14  21:12:40 INFO  BaseClass:45 -Creating object of chrome
+2018-05-14  21:12:40 INFO  BaseClass:59 -Navigating to : http://www.amazon.com
+2018-05-14  21:12:50 INFO  BaseClass:45 -Creating object of chrome
+2018-05-14  21:12:50 INFO  BaseClass:59 -Navigating to : http://www.amazon.com
+2018-05-14  21:12:53 INFO  TC003_VerifyLoginWithDifferentRecords:23 ---------------------TC003_VerifyLoginWithDifferentRecords Test Started-----------------
+2018-05-14  21:13:14 INFO  HomePage:61 -Clicked in signinButton and object is :-Proxy element for: DefaultElementLocator 'By.xpath: //a[@id='nav-link-accountList']'
+2018-05-14  21:13:14 INFO  HomePage:63 -Entered email address : demo.email04@gmail.com and object is [[ChromeDriver: chrome on XP (e665ccd02926a90772fd1ec71c295c90)] -> xpath: //input[@id='ap_email']]
+2018-05-14  21:13:14 INFO  HomePage:67 -Entered passWord : pass123 and object is [[ChromeDriver: chrome on XP (e665ccd02926a90772fd1ec71c295c90)] -> xpath: //input[@id='ap_password']]
+2018-05-14  21:13:16 INFO  HomePage:69 -Clicked in signinSubmitButton and object is :- [[ChromeDriver: chrome on XP (e665ccd02926a90772fd1ec71c295c90)] -> xpath: //input[@id='signInSubmit']]
+2018-05-14  21:13:16 INFO  HomePage:73 -Assertion doneactual :Forgot your password? expected :Forgot your password?
+2018-05-14  21:13:16 INFO  TC003_VerifyLoginWithDifferentRecords:26 ---------------------TC003_VerifyLoginWithDifferentRecords Test Finished-----------------
+2018-05-22  19:21:32 INFO  TC003_VerifyLoginWithDifferentRecords:20 ---------------------TC003_VerifyLoginWithDifferentRecords Test Started-----------------
+2018-05-22  19:21:53 INFO  HomePage:61 -Clicked in signinButton and object is :-Proxy element for: DefaultElementLocator 'By.xpath: //a[@id='nav-link-accountList']'
+2018-05-22  19:21:53 INFO  HomePage:63 -Entered email address : demo.email01@gmail.com and object is [[ChromeDriver: chrome on XP (39356a2c9f6c5fac09b955f02ffe796d)] -> xpath: //input[@id='ap_email']]
+2018-05-22  19:22:18 INFO  TestBase:43 -Creating object of chrome
+2018-05-22  19:22:18 INFO  TestBase:57 -Navigating to : http://www.amazon.com
+2018-05-22  19:22:45 INFO  TC003_VerifyLoginWithDifferentRecords:20 ---------------------TC003_VerifyLoginWithDifferentRecords Test Started-----------------
+2018-05-22  19:23:05 INFO  HomePage:61 -Clicked in signinButton and object is :-Proxy element for: DefaultElementLocator 'By.xpath: //a[@id='nav-link-accountList']'
+2018-05-22  19:23:06 INFO  HomePage:63 -Entered email address : demo.email02@gmail.com and object is [[ChromeDriver: chrome on XP (b5eaba420525f11430bcdcdb5519a0eb)] -> xpath: //input[@id='ap_email']]
+2018-05-22  19:23:30 INFO  TestBase:43 -Creating object of chrome
+2018-05-22  19:23:30 INFO  TestBase:57 -Navigating to : http://www.amazon.com
+2018-05-22  19:23:39 INFO  TestBase:43 -Creating object of chrome
+2018-05-22  19:23:39 INFO  TestBase:57 -Navigating to : http://www.amazon.com
+2018-05-22  19:23:51 INFO  TC003_VerifyLoginWithDifferentRecords:20 ---------------------TC003_VerifyLoginWithDifferentRecords Test Started-----------------
+2018-05-22  19:24:12 INFO  HomePage:61 -Clicked in signinButton and object is :-Proxy element for: DefaultElementLocator 'By.xpath: //a[@id='nav-link-accountList']'
+2018-05-22  19:24:13 INFO  HomePage:63 -Entered email address : demo.email04@gmail.com and object is [[ChromeDriver: chrome on XP (3015ee82badde849a39012d0002dc0fd)] -> xpath: //input[@id='ap_email']]

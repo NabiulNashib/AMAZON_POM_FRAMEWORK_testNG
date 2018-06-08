@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Regression Suit">
+    <test name="TC002_VerifyRegistration">
+        <classes>
+            <class name="com.amazon.uiautomation.homepage.TC003_VerifyLoginWithDifferentRecords"></class>
+        </classes>
+    </test>
+</suite>
